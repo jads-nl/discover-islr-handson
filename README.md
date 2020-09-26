@@ -18,13 +18,10 @@ The R notebooks are taken from the [website of the University of Southern Califo
 - [Handson Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 - [The Art of R Programming](http://diytranscriptomics.com/Reading/files/The%20Art%20of%20R%20Programming.pdf) from No Starch Press
 
-## Running R in Google Colab
+### Running R in Google Colab
 
-Google Colab launches a Python 3 kernel by default. To create a new R notebook, use this URL:
+Google Colab launches a Python 3 kernel by default. To create a new R notebook, use this URL: [https://colab.research.google.com/notebook#create=true&language=r](https://colab.research.google.com/notebook#create=true&language=r)
 
-```
-https://colab.research.google.com/notebook#create=true&language=r
-```
 
 
 
