@@ -6,13 +6,13 @@ The notebooks are written and tested in Google Colab. They should run in any Jup
 
 
 ## R coding labs
-The R notebooks are taken from the [website of the University of Southern California](Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani), with some minor changes to improve readability and use in Google Colab.
+The R notebooks are taken from the [website of the University of Southern California](http://faculty.marshall.usc.edu/gareth-james/ISL/index.html), with some minor changes to improve readability and use in Google Colab.
 
 ### Online resources for learning R for data science
 
 #### Beginners
 - [R for Data Science](https://r4ds.had.co.nz/), by the Big Guy which is the reference guide to using the [tidyverse](https://www.tidyverse.org/)
-- [Antroduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf), by Edwin de Jonge and Mark van der Loo (CBS discussion paper)
+- [An Introduction to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf), by Edwin de Jonge and Mark van der Loo (CBS discussion paper)
 
 #### Intermediate
 - [Handson Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
