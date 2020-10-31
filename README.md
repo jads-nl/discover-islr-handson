@@ -36,4 +36,7 @@ The Python notebooks have been forked from [Jordi Warmenhoven's repository](http
 - [Aurélien Géron, Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) including [notebooks](https://github.com/ageron/handson-ml2)
 - [Effective Python](https://effectivepython.com/)
 
+[JADS Hands-on ISLR](https://www.github.com/dkapitan/jads-handson-islr) by [Daniel Kapitan](https://www.linkedin.com/in/dkapitan) and [Joran Lokkerbol](https://www.linkedin.com/in/joran-lokkerbol-7a68063/) is licensed under under a
+[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
+[![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)]([http://creativecommons.org/licenses/by-sa/4.0/) 
