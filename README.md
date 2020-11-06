@@ -35,7 +35,8 @@ The Python notebooks have been forked from [Jordi Warmenhoven's repository](http
 
 #### Intermediate
 - [Aurélien Géron, Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) including [notebooks](https://github.com/ageron/handson-ml2)
-- [Effective Python](https://effectivepython.com/)
+- [Effective Python](https://effectivepython.com/) by Brett Slatkin
+- [Functional Python Programming](https://www.packtpub.com/product/functional-python-programming-second-edition/9781788627061) by Stephen F. Lott
 
 ## Copyright and license notice
 
