@@ -29,6 +29,7 @@ The Python notebooks have been forked from [Jordi Warmenhoven's repository](http
 ### Online resources for learning Python for data science
 
 #### Beginners
+- [Think Python](https://greenteapress.com/wp/think-python-2e/) by [Allen Downey](https://greenteapress.com/wp/)
 - Online tutorials on [RealPython.com](https://realpython.com/learning-paths/data-science-python-core-skills/) and their book [Python Basics](https://realpython.com/products/python-basics-book/)
 - [Exercises from the book Python Basics](https://github.com/realpython/python-basics-exercises)
 
