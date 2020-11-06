@@ -31,7 +31,7 @@ The Python notebooks have been forked from [Jordi Warmenhoven's repository](http
 #### Beginners
 - [Think Python](https://greenteapress.com/wp/think-python-2e/) by [Allen Downey](https://greenteapress.com/wp/)
 - Online tutorials on [RealPython.com](https://realpython.com/learning-paths/data-science-python-core-skills/) and their book [Python Basics](https://realpython.com/products/python-basics-book/)
-- [Exercises from the book Python Basics](https://github.com/realpython/python-basics-exercises)
+- [Exercises from Python Basics](https://github.com/realpython/python-basics-exercises)
 
 #### Intermediate
 - [Aurélien Géron, Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) including [notebooks](https://github.com/ageron/handson-ml2)
