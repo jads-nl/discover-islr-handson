@@ -1,6 +1,6 @@
 # jads-handson-islr
 
-This repository contains R and Python notebooks to accompany [An Introduction to Statistical Learning (ISLR)](http://faculty.marshall.usc.edu/gareth-james/ISL/index.html) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
+This repository contains R and Python notebooks to accompany [An Introduction to Statistical Learning: With Applications in R (ISLR)](http://faculty.marshall.usc.edu/gareth-james/ISL/index.html) by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
 
 The notebooks are written and tested in Google Colab. They should run in any Jupyter notebook environment, provided a Python and/or R kernel is installed.
 
